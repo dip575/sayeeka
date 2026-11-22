@@ -1,0 +1,6 @@
+{
+  "name": "RoboPilot",
+  "description": "Directional toy robot remote controller with D-pad, analog joystick, Bluetooth SPP, Wi-Fi UDP/TCP/HTTP transport, and customizable command protocols.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

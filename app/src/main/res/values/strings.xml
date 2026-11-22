@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">RoboPilot</string>
+    <string name="nav_control">Control</string>
+    <string name="nav_connect">Connect</string>
+    <string name="nav_settings">Config</string>
+    <string name="status_disconnected">Not Connected</string>
+    <string name="status_connecting">Connecting…</string>
+    <string name="status_connected">Connected</string>
+    <string name="emergency_stop">EMERGENCY STOP</string>
+    <string name="mode_dpad">D-Pad</string>
+    <string name="mode_joystick">Joystick</string>
+    <string name="dir_idle">STOPPED</string>
+    <string name="dir_forward">FORWARD</string>
+    <string name="dir_backward">REVERSE</string>
+    <string name="dir_left">TURN LEFT</string>
+    <string name="dir_right">TURN RIGHT</string>
+    <string name="dir_forward_left">FWD LEFT</string>
+    <string name="dir_forward_right">FWD RIGHT</string>
+    <string name="dir_backward_left">REV LEFT</string>
+    <string name="dir_backward_right">REV RIGHT</string>
+    <string name="action_horn">Horn</string>
+    <string name="action_lights">Lights</string>
+    <string name="action_spin">Spin 360°</string>
+    <string name="cd_forward">Move robot forward</string>
+    <string name="cd_backward">Move robot backward</string>
+    <string name="cd_left">Turn robot left</string>
+    <string name="cd_right">Turn robot right</string>
+    <string name="cd_stop">Stop robot immediately</string>
+    <string name="cd_forward_left">Move robot forward left</string>
+    <string name="cd_forward_right">Move robot forward right</string>
+    <string name="cd_backward_left">Move robot backward left</string>
+    <string name="cd_backward_right">Move robot backward right</string>
+    <string name="cd_robot_banner">Toy robot rover illustration</string>
+</resources>
